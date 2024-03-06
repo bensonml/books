@@ -1,1 +1,1 @@
-# book-summaries
+# book-notes
