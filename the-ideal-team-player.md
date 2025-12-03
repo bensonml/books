@@ -1,5 +1,6 @@
-# The Ideal Team Player by Patrick Lencioni
-
+# The Ideal Team Player 
+by Patrick Lencioni
+2025-12-03 CTOS Book Club.
 
 ## Three Virtues Combined
 
@@ -18,15 +19,22 @@ Egoless, akin to "Ego is the Enemy" .
 Ambition to improve the team
 
 ## Smart
+Wise.
 
-## Application
+## Applications
 
-Hiring
+A. Hiring
+Establishing expectations.
 
-Improving Employees
+B. Improving Employees
+Critieria for improvement.
+Honest Feedback.
 
 ## INFO
+Endorsement: John described how this book is the foundation and philosophy of CTOS.
 
 Author Summary: [Ideal Team Player.pdf](https://files.tablegroup.com/wp-content/uploads/2020/12/14171138/Ideal-Team-Player-Model-and-Summary.pdf)
+
+
 
 
