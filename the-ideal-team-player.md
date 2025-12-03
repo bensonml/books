@@ -8,7 +8,7 @@ by Patrick Lencioni
 
 What makes humble, hungry and smart powerful and unique is not the individual attributes themselves, but rather the required combination of all three.
 
-![venn](https://miro.medium.com/v2/resize:fit:640/format:webp/1*F5PMGceC-cvUPfYjHWk4Tw.png) from Medium
+![https://miro.medium.com/v2/resize:fit:640/format:webp/1*F5PMGceC-cvUPfYjHWk4Tw.png]
 
 ## Parable
 Akin to 'The Pheonix Project'
