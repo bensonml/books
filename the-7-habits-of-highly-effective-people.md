@@ -5,6 +5,14 @@
 
 1. Be Proactive
 
+- Between stimulus and how responds is someone's ability to choose how to react.
+   - Difference between acting and being acted upon
+   - References to Viktor Frankl's book, "Man's Search for Meaning"
+- Figure 1. Concentric circles of Control (innermost), Innfluence, and Concern (outermost).
+   - Control: things directly under our own control - thoughts, words, and actions
+   - Influence: concerns we can do something about, but do not have control over (but can influence)
+   - Concern: things over which we have no control over the outcome
+
 2. Begin with the End in Mind
 
 3. Put First Things First
