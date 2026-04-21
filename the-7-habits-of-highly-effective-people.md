@@ -34,6 +34,14 @@ Figure 2. Important and Urgency Matrix
 
 
 4. Think Win-Win
+- Develop your humility. group success will out measure individual success (ego is the enemy). 
+
+- Recognize the humanity and value of others
+
+- Develop a long-term perspective; develop the capacity of delayted gratification.
+
+- Be assertive, not a passive 'door mat' about needs.
+
 
 5. Seek First to Understand, Then to be Understood
 
